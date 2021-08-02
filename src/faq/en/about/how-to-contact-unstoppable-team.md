@@ -1,14 +1,14 @@
-# How to contact Unstoppable Team
+# How to contact StarBase Team
 
-To reach out please use support.unstoppable@protonmail.com or one of the following channels:
+To reach out please use support.StarBase@protonmail.com or one of the following channels:
 
 Reddit
 
-[https://www.reddit.com/r/UNSTOPPABLEWallet/](https://www.reddit.com/r/UNSTOPPABLEWallet/)
+[https://www.reddit.com/r/StarBaseWallet/](https://www.reddit.com/r/StarBaseWallet/)
 
 Twitter
   
-[https://twitter.com/unstoppablebyhs?lang=en](https://twitter.com/unstoppablebyhs?lang=en)
+[https://twitter.com/StarBasebyhs?lang=en](https://twitter.com/StarBasebyhs?lang=en)
 
 Github
 
@@ -16,13 +16,13 @@ Github
 
 Telegram (Channel)
 
-[https://t.me/unstoppable_announcements](https://t.me/unstoppable_announcements)
+[https://t.me/StarBase_announcements](https://t.me/StarBase_announcements)
 
-Do not trust anyone outside official channels. There are a number of fake groups and channels impersonating the Unstoppable team on Telegram and Twitter. Be aware!
+Do not trust anyone outside official channels. There are a number of fake groups and channels impersonating the StarBase team on Telegram and Twitter. Be aware!
 
-Never share your wallet private keys (aka 12-24 word mnemonic) with anyone, incl. Unstoppable team. All potential problems with the wallet app can be addressed without the need for a wallet private key.
+Never share your wallet private keys (aka 12-24 word mnemonic) with anyone, incl. StarBase team. All potential problems with the wallet app can be addressed without the need for a wallet private key.
 
-When contacting the Unstoppable team regarding a problem with the wallet app i.e something is not working as expected, please include:
+When contacting the StarBase team regarding a problem with the wallet app i.e something is not working as expected, please include:
 
 - App Status logs with the message. Sharing app status logs do not carry any risks and are mainly needed for troubleshooting the problem effectively. The logs are located in Settings >> About App >> App Status.
 

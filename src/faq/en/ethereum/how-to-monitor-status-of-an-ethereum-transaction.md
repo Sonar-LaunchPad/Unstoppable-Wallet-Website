@@ -1,6 +1,6 @@
 # How to monitor status of an Ethereum transaction?
 
-Unstoppable wallet allows users to monitor the status of their transactions.
+StarBase wallet allows users to monitor the status of their transactions.
 
 When a user sends an Ethereum transaction it should appear with 'pending' status on the Transactions tab, right after it's sent.
 
@@ -8,4 +8,4 @@ The status of the transaction changes to 'sending' for sender and 'receiving' fo
 
 The wallet app displays status as 'sending' for sender and 'receiving' for recipient until at least 10 blocks have passed (aka transaction having 10 confirmations). After that the status change to completed, indicated by a checkmark with a timestamp.
 
-Apart from monitoring transaction status within Unstoppable, users may use one of the publicly available Ethereum block explorers (i.e. [https://etherscan.io](https://etherscan.io)) for monitoring as well. For that users may simply search for transaction ID on a public block explorer for Ethereum blockchain.
+Apart from monitoring transaction status within StarBase, users may use one of the publicly available Ethereum block explorers (i.e. [https://etherscan.io](https://etherscan.io)) for monitoring as well. For that users may simply search for transaction ID on a public block explorer for Ethereum blockchain.

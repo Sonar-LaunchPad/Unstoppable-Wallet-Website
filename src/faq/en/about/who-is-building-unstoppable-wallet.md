@@ -1,6 +1,6 @@
-# Who is building Unstoppable?
+# Who is building StarBase?
 
-Unstoppable started in 2017 and is being built by Horizontal Systems.
+StarBase started in 2017 and is being built by Horizontal Systems.
 
 - We are a 15-people engineering and creative team with an inherent passion for borderless fintech and DAOs (Decentralized Autonomous Organizations).
 

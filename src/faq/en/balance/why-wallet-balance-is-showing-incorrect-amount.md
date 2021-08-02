@@ -8,6 +8,6 @@ There are several potential reasons for the wallet balance to display incorrect 
   
 - when the app synchronizes itself with the blockchain the balance for coins as well as total balance amount will keep changing depending on the synchronization progress.
 
-In some cases the balance amount for Bitcoin, Bitcoin Cash, Litecoin, Dash and Zcash cryptocurrencies may be shown incorrectly as a result of Unstoppable wallet failing to correctly identify an incoming transaction.
+In some cases the balance amount for Bitcoin, Bitcoin Cash, Litecoin, Dash and Zcash cryptocurrencies may be shown incorrectly as a result of StarBase wallet failing to correctly identify an incoming transaction.
 
-In such cases you're welcome to report the issue to the Unstoppable team and wait for the fix. It will be addressed on a priority basis.
+In such cases you're welcome to report the issue to the StarBase team and wait for the fix. It will be addressed on a priority basis.

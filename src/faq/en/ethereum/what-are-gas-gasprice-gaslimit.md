@@ -10,7 +10,7 @@ The Gas is like a fuel for doing anything on Ethereum blockchain and is the unit
   
 2) Gas Price is the amount (in ETH) a user is willing to spend per each unit of gas. The gas price usually changes with network conditions. When the network is busy gas prices are high and low when it's idle. The higher the gas price the sender is willing to pay, the more important the transaction is in the Ethereum network, since the reward of the miner will be higher. Insufficient gas price is often a reason for a transaction to remain pending for an extended period.
 
-Unstoppable wallet estimates and sets a limit as well as a gas price for each transaction on Ethereum network. The recommended fee for the transaction is calculated by multiplying the recommended values for gas limit and gas price.
+StarBase wallet estimates and sets a limit as well as a gas price for each transaction on Ethereum network. The recommended fee for the transaction is calculated by multiplying the recommended values for gas limit and gas price.
 
 For example, if the gas limit is 50,000 units and the gas price is 20 Gwei (subunit of Ether), then it means that the sender is ready to spend 0.001 ETH on the execution of the transaction.
 

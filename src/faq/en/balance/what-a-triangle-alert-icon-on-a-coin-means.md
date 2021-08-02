@@ -6,5 +6,5 @@ The triangle alert icon appearing on the coin cell means the app was unable to s
    
 2. If the icon appears on Ethereum (incl. ERC20 tokens), Binance Smart Chain (incl. BEP20 tokens) then the problem is due to communication issues with Ethereum or Binance Smart Chain data providers. Usually, retrying sync after waiting for a few minutes fixes the issue. If not, users may try killing (and restarting) the app.
 
-Keep in mind, synchronization error means that Unstoppable wallet app has problems synchronizing itself with the blockchain and doesn't affect the funds on wallet balance in any way.
+Keep in mind, synchronization error means that StarBase wallet app has problems synchronizing itself with the blockchain and doesn't affect the funds on wallet balance in any way.
 

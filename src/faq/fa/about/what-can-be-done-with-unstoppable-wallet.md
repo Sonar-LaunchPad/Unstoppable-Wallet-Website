@@ -1,4 +1,4 @@
-# What can be done with Unstoppable Wallet?
+# What can be done with StarBase Wallet?
 
 - Learn about cryptocurrency and DeFi
 - Create unlimited number of cryptocurrency wallets/portfolios

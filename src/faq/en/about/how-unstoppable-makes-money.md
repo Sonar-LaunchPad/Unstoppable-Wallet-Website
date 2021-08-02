@@ -1,6 +1,6 @@
-# How Unstoppable makes money?
+# How StarBase makes money?
 
-Unstoppable is a free to use instrument that keeps all of its fundamental features free.
+StarBase is a free to use instrument that keeps all of its fundamental features free.
 
 We are a self-funded group and not dependent on funding from external entities. Our former ventures allow us to stay independent, creative and experimental while building our preferred asset management instrument for the decentralized fintech.
 
@@ -11,6 +11,6 @@ As per our roadmap, starting from version 0.24 , the wallet app going to start i
 - VIP level support over direct chat
 - and more
 
-The features above are already in the implementation stage and designed to enable the Unstoppable team to monetize itself and financially operate in DAO format moving forward.
+The features above are already in the implementation stage and designed to enable the StarBase team to monetize itself and financially operate in DAO format moving forward.
 
-Premium wallet features are expected to be available only to those holding Unstoppable Tokens on the wallet balance.
+Premium wallet features are expected to be available only to those holding StarBase Tokens on the wallet balance.

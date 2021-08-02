@@ -1,6 +1,6 @@
 # What 'syncing' status on a coin means?
 
-The 'syncing' status indicator on the coin shows that the Unstoppable app tries to synchronize itself with a given blockchain. 
+The 'syncing' status indicator on the coin shows that the StarBase app tries to synchronize itself with a given blockchain. 
 
 While in most cases that status should be shown briefly, there are many valid situations where it can remain for significantly longer:
 
@@ -12,7 +12,7 @@ While in most cases that status should be shown briefly, there are many valid si
 
 - Poor networking conditions and in general slow internet.
 
-- Delayed or slow response times for Ethereum and Binance Smart Chain RPC providers. It's generally advised to wait for a few minutes or try to restart the wallet app. At this stage, Unstoppable is dependent on the RPC services because direct communication solutions for these two blockchains currently result in poor usability.
+- Delayed or slow response times for Ethereum and Binance Smart Chain RPC providers. It's generally advised to wait for a few minutes or try to restart the wallet app. At this stage, StarBase is dependent on the RPC services because direct communication solutions for these two blockchains currently result in poor usability.
 
-Keep in mind, the Unstoppable app keeps the synchronization process running only when the Unstoppable remains open. If the app is closed the synchronization process is paused and only resumes when the app is opened again.
+Keep in mind, the StarBase app keeps the synchronization process running only when the StarBase remains open. If the app is closed the synchronization process is paused and only resumes when the app is opened again.
 

@@ -1,6 +1,6 @@
-# Where to download Unstoppable from?
+# Where to download StarBase from?
 
-Always download Unstoppable wallet app from official sources:
+Always download StarBase wallet app from official sources:
 
 App Store
 
@@ -12,7 +12,7 @@ Google Play Market
 
 Github
 
-[https://github.com/horizontalsystems/unstoppable-wallet-android/releases](https://github.com/horizontalsystems/unstoppable-wallet-android/releases)
+[https://github.com/horizontalsystems/StarBase-wallet-android/releases](https://github.com/horizontalsystems/StarBase-wallet-android/releases)
 
 Fdroid
 
