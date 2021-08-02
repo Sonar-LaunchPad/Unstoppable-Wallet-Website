@@ -34,7 +34,7 @@ function GetWallet() {
         className="Button-circle Button-download"
         text="Download APK file"
         icon="download"
-        link="https://github.com/horizontalsystems/unstoppable-wallet-android/releases" newTab />
+        link="https://github.com/horizontalsystems/StarBase-wallet-android/releases" newTab />
     </div>
   )
 }

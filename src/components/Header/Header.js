@@ -88,7 +88,7 @@ class Header extends React.Component {
         <Container>
           <div className="navbar">
             <Link to="/" onClick={this.onClickHome}>
-              <img className="Header-logo" src={HeaderLogo} alt="Unstoppable Cryptocurrency Wallet" />
+              <img className="Header-logo" src={HeaderLogo} alt="StarBase Cryptocurrency Wallet" />
             </Link>
 
             <div className="hide-on-mobile">

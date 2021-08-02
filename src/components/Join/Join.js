@@ -16,15 +16,15 @@ function Join() {
         <div className="Page-content">
           <div className="Page-end">
             <div className="Section-text Join-section-text">
-              Join Unstoppables
+              Join StarBases
             </div>
             <div className="Section-info Join-section-info">
-              Stay on top of Unstoppable happenings. Be the first to know about new features, user reported issues and things we work on!            </div>
+              Stay on top of StarBase happenings. Be the first to know about new features, user reported issues and things we work on!            </div>
           </div>
           <div className="Page-start">
             <div className="Join-icons">
               <div className="Join-icon">
-                <a href="https://twitter.com/unstoppablebyhs" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/StarBasebyhs" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={twitter} alt="Twitter" />
                 </a>
               </div>
@@ -34,19 +34,19 @@ function Join() {
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://t.me/unstoppable_announcements" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/StarBase_announcements" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={telegram} alt="telegram" />
                 </a>
               </div>
             </div>
             <div className="Join-icons">
               <div className="Join-icon">
-                <a href="https://www.reddit.com/r/UNSTOPPABLEWallet/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.reddit.com/r/StarBaseWallet/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={reddit} alt="reddit" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://unstoppablewallet.medium.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://StarBasewallet.medium.com/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={medium} alt="medium" />
                 </a>
               </div>

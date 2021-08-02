@@ -15,17 +15,17 @@ function Banner() {
           <img
             className="Banner-img"
             src="/images/banner/wallet.png"
-            alt="Unstoppable wallet"
+            alt="StarBase wallet"
             srcSet="/images/banner/wallet@2x.png 2x"
           />
         </div>
         <div className="Banner-end">
           <div className="Banner-end-content">
             <div className="Banner-title sm-hidden">
-              Be <br /> Unstoppable
+              Be <br /> StarBase
             </div>
             <div className="Banner-title md-hidden">
-              Be Unstoppable
+              Be StarBase
             </div>
             <GetWalletActions />
           </div>
