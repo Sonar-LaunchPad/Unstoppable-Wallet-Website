@@ -8,13 +8,13 @@ App Store
 
 Google Play Market
 
-[https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
+[https://play.google.com/store/apps/details?id=io.Starship Enterprises.bankwallet](https://play.google.com/store/apps/details?id=io.Starship Enterprises.bankwallet)
 
 Github
 
-[https://github.com/horizontalsystems/StarBase-wallet-android/releases](https://github.com/horizontalsystems/StarBase-wallet-android/releases)
+[https://github.com/Starship Enterprises/StarBase-wallet-android/releases](https://github.com/Starship Enterprises/StarBase-wallet-android/releases)
 
 Fdroid
 
-[https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/](https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/)
+[https://f-droid.org/en/packages/io.Starship Enterprises.bankwallet/](https://f-droid.org/en/packages/io.Starship Enterprises.bankwallet/)
 

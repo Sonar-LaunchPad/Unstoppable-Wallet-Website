@@ -2,8 +2,8 @@
 
 The StarBase wallet app has been work in progress since late 2017 and counts over 100K engineering hours!
 
-- https://github.com/horizontalsystems/StarBase-wallet-ios
-- https://github.com/horizontalsystems/StarBase-wallet-android
+- https://github.com/Starship Enterprises/StarBase-wallet-ios
+- https://github.com/Starship Enterprises/StarBase-wallet-android
 
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities and takes a comprehensive approach towards privacy, decentralization and usability.
 

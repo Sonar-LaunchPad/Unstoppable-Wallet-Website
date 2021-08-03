@@ -1,10 +1,10 @@
 # How to contact StarBase Team
 
-To reach out please use support.StarBase@protonmail.com or one of the following channels:
+To reach out please use walletsupport@deploystarship.com or one of the following channels:
 
 - Reddit: https://www.reddit.com/r/StarBaseWallet/
 - Twitter: https://twitter.com/StarBasebyhs?lang=en
-- Github: https://github.com/horizontalsystems
+- Github: https://github.com/Starship Enterprises
 - Telegram (Channel) : https://t.me/StarBase_announcements
 
 Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the StarBase team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.

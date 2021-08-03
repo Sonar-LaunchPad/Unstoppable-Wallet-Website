@@ -168,12 +168,12 @@ function RoadmapDetails({ title, items, version }) {
           </ul>
         </div>
         <div className="border-top mt-2 pt-2">
-          <a href={`https://github.com/horizontalsystems/StarBase-wallet-android/releases/tag/${version}.0`}
+          <a href={`https://github.com/Starship Enterprises/StarBase-wallet-android/releases/tag/${version}.0`}
              target="_blank"
              rel="noopener noreferrer"
              className="text-warning small">Android</a>
           &nbsp;&nbsp;
-          <a href={`https://github.com/horizontalsystems/StarBase-wallet-ios/releases/tag/${version}`}
+          <a href={`https://github.com/Starship Enterprises/StarBase-wallet-ios/releases/tag/${version}`}
              target="_blank"
              rel="noopener noreferrer"
              className="text-warning small">iOS</a>

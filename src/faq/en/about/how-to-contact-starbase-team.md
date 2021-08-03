@@ -1,6 +1,6 @@
 # How to contact StarBase Team
 
-To reach out please use support.StarBase@protonmail.com or one of the following channels:
+To reach out please use walletsupport@deploystarship.com or one of the following channels:
 
 Reddit
 
@@ -12,7 +12,7 @@ Twitter
 
 Github
 
-[https://github.com/horizontalsystems](https://github.com/horizontalsystems)
+[https://github.com/Starship Enterprises](https://github.com/Starship Enterprises)
 
 Telegram (Channel)
 

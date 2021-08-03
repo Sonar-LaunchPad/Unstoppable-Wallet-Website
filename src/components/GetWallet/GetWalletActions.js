@@ -16,7 +16,7 @@ function GetWallet() {
         className="Button-circle"
         text="Google Play"
         icon="google-play"
-        link="https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet" yellow newTab />
+        link="https://play.google.com/store/apps/details?id=io.Starship Enterprises.bankwallet" yellow newTab />
       <Button
         className="Button-circle"
         text="App Store"
@@ -29,12 +29,12 @@ function GetWallet() {
         className="Button-circle Button-download"
         text="Get it on F-Droid"
         icon="f-droid"
-        link="https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/" newTab />
+        link="https://f-droid.org/en/packages/io.Starship Enterprises.bankwallet/" newTab />
       <Button
         className="Button-circle Button-download"
         text="Download APK file"
         icon="download"
-        link="https://github.com/horizontalsystems/StarBase-wallet-android/releases" newTab />
+        link="https://github.com/Starship Enterprises/StarBase-wallet-android/releases" newTab />
     </div>
   )
 }

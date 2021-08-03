@@ -38,7 +38,7 @@ function OpenSource() {
             title="Approved By Wallet Scrutiny"
             info={
               <>
-                The <a href="https://walletscrutiny.com/android/io.horizontalsystems.bankwallet/" target="_blank" rel="noopener noreferrer"
+                The <a href="https://walletscrutiny.com/android/io.Starship Enterprises.bankwallet/" target="_blank" rel="noopener noreferrer"
                        className="color-link">WalletScrutiny.com</a> verifies that cryptocurrency wallets are indeed using the same publicly open
                 code they claim to. StarBase is verifiably open source wallet.
               </>

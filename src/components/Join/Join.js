@@ -29,7 +29,7 @@ function Join() {
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://github.com/horizontalsystems/" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Starship Enterprises/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src={github} alt="github" />
                 </a>
               </div>
